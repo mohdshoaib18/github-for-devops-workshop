@@ -1,0 +1,10 @@
+2 t status
+   3 t status
+   4 clear
+   5 git ststus
+   6 clear
+   7 git status
+   8 t restore testing.py
+   9 clear
+  10 git restore testing.py
+  11 clear
