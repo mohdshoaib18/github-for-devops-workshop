@@ -8,3 +8,14 @@
    9 clear
   10 git restore testing.py
   11 clear
+   3 git remote add origin https://github.com/mohdshoaib18/github-for-devops-workshop.git
+   4 t remote -v
+   5 clear
+   6 git remote -v
+   7 clear
+   8 git push origin master
+  11 clear
+  12 git remote -v
+  16 clear
+  17 git clone https://github.com/mohdshoaib18/crx-reload-tab.git
+  18 clear
